@@ -3,6 +3,7 @@
 //Output: Factorial of 5 is: 120
 //Time Complexity: O(n)
 //Space Complexity: O(n) due to recursive stack space
+
 public class Recursion_P3 {
     public static int factorial(int n){
 if(n == 0){
@@ -18,5 +19,4 @@ public static void main (String args[]){
     factorial(n);
     System.out.println("Factorial of " + n + " is: " + factorial(n));
 }
-    
 }
