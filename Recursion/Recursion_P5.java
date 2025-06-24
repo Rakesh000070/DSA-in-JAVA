@@ -1,4 +1,6 @@
-// This code calculates the nth Fibonacci number using recursion.
+                 //Q. This code calculates the nth Fibonacci number using recursion.
+
+
 // Fibonacci sequence: 0, 1, 1, 2, 3, 5, 8, 13, ... 
 // The nth Fibonacci number is the sum of the (n-1)th and (n-2)th Fibonacci numbers.    
 // Base cases: fibonacci(0) = 0, fibonacci(1) = 1   
